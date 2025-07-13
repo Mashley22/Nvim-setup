@@ -11,6 +11,9 @@ local M = {
   {
     "nvim-lua/plenary.nvim"
   },
+  { "hrsh7th/nvim-cmp" },
+  { "hrsh7th/cmp-nvim-lsp" },
+  { "L3MON4D3/LuaSnip" },
   {
   "folke/trouble.nvim",
   opts = {}, -- for default options, refer to the configuration section for custom setup.
